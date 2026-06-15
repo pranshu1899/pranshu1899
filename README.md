@@ -1,14 +1,12 @@
-Hi, I'm Pranshu Samadhiya 👋
-Blockchain Developer | Full Stack Developer | Problem Solver
+# Hi, I'm Pranshu Samadhiya 👋
 
-I am a Computer Science and Design student at MITS Gwalior with a strong interest in Blockchain Development, Full Stack Engineering, and Data Structures & Algorithms.
+### Blockchain Developer | Full Stack Developer | Problem Solver
 
-I enjoy building decentralized applications, solving real-world problems through hackathons, and exploring how AI and Web3 technologies can create impactful products.
-
-🎓 Education
-
-B.Tech – Computer Science and Design
-Madhav Institute of Technology & Science (MITS), Gwalior
+- 🎓 B.Tech CSD @ MITS Gwalior
+- 🚀 Winner - HackIgnite'25
+- 🏆 IIT Mandi Hackathon Finalist
+- 💻 50+ LeetCode Problems Solved
+- 🔗 Currently Learning Blockchain & Smart Contract Security
 
 
 ## 🌐 Socials:

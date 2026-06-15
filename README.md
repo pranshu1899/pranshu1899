@@ -5,6 +5,7 @@
 <h3 align="center">
 Blockchain Developer • Full Stack Developer • Hackathon Winner
 </h3>
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212744275-2d7d8a15-3e60-4922-bdf5-dc62b7b4d1aa.gif" width="700">
 </p>
@@ -15,7 +16,7 @@ Blockchain Developer • Full Stack Developer • Hackathon Winner
   🏆 HackIgnite'25 Winner • 🚀 IIT Mandi Hackathon Finalist • 💻 50+ LeetCode Problems
 </p>
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranshu-Samadhiya&theme=tokyo-night)](...)
 
 ### Blockchain Developer | Full Stack Developer | Problem Solver
 
@@ -36,8 +37,7 @@ Blockchain Developer • Full Stack Developer • Hackathon Winner
 ![](https://streak-stats.demolab.com/?user=pranshu1899&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=pranshu1899&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=pranshu1899&limit=5&theme=radical&combine_all_yearly_contributions=true)
@@ -45,7 +45,7 @@ Blockchain Developer • Full Stack Developer • Hackathon Winner
 ---
 [![](https://komarev.com/ghpvc/?username=pranshu1899&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 <!--
 **pranshu1899/pranshu1899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

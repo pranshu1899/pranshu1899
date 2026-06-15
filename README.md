@@ -1,5 +1,29 @@
 # Hi, I'm Pranshu Samadhiya 👋
 
+<h1 align="center">Hi 👋, I'm Pranshu Samadhiya</h1>
+
+<h3 align="center">
+Blockchain Developer • Full Stack Developer • Hackathon Winner
+</h3>
+
+<p align="center">
+  <a href="https://github.com/Pranshu-Samadhiya">
+    <img src="https://komarev.com/ghpvc/?username=Pranshu-Samadhiya&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744275-2d7d8a15-3e60-4922-bdf5-dc62b7b4d1aa.gif" width="700">
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,solidity,git,github,mongodb" />
+</p>
+
+<p align="center">
+  🏆 HackIgnite'25 Winner • 🚀 IIT Mandi Hackathon Finalist • 💻 50+ LeetCode Problems
+</p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Pranshu%20Samadhiya&fontSize=45&fontAlignY=40&desc=Blockchain%20Developer%20|%20Full%20Stack%20Developer&descAlignY=60"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:1e293b,100:3b82f6&text=Pranshu%20Samadhiya&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=Blockchain%20Developer%20|%20Full%20Stack%20Developer%20|%20Hackathon%20Builder&descAlignY=62"/>

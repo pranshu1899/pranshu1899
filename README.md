@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋,+I'm+Pranshu+Samadhiya;Blockchain+Developer;Full+Stack+Engineer;AI+Developer;Web3+Pioneer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋,+I'm+Pranshu+Samadhiya;Blockchain+Developer;Full+Stack+Developer" alt="typing animation"/>
 </h1>
 
 <h3 align="center">
@@ -15,8 +15,8 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Actively%20Learning-brightgreen?style=flat&logo=codecademy" alt="Status" />
-  <img src="https://img.shields.io/badge/Passion-Blockchain%20%26%20AI-blue?style=flat&logo=ethereum" alt="Passion" />
+  <img src="https://img.shields.io/badge/Status-Actively%20Learning%20%26%20Building-brightgreen?style=flat&logo=codecademy" alt="Status" />
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-blue?style=flat&logo=briefcase" alt="Opportunities" />
   <img src="https://img.shields.io/badge/Focus-Web3%20Development-purple?style=flat&logo=web3dotjs" alt="Focus" />
 </div>
 
@@ -26,7 +26,7 @@
 
 <img align="right" src="https://img.shields.io/badge/⚡-Technical%20Expertise-orange?style=flat-square" alt="Tech Badge" />
 
-- 🎓 **B.Tech in Computer Science & Design** @ MITS Gwalior
+- 🎓 **B.Tech in Computer Science & Design** @ MITS Gwalior | **CGPA: 7.63**
 - 🥇 **HackIgnite'25 Winner** - Mediva.AI (AI-powered healthcare assistant)
 - 🚀 **IIT Mandi Hackathon Finalist (INXITEOUT-XPECTO'26)** - CampX (AI-powered autonomous marketing copilot)
 - 💻 **50+ LeetCode Problems** solved with optimal solutions
@@ -39,12 +39,12 @@
 ## 💬 About Me
 
 <div align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;&nbsp;<b>I'm a passionate Computer Science and Design student with a strong foundation in blockchain development, full-stack engineering, and AI development.</b>&nbsp;&nbsp;<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;&nbsp;<b>I'm a passionate Computer Science and Design student with a strong foundation in blockchain development</b>
 </div>
 
 <br/>
 
-- 🔭 Currently working on **blockchain solutions and Web3 projects**
+- 🔭 Currently building **blockchain solutions, Web3 projects, and full-stack applications**
 - 🌱 Learning **advanced smart contract security, Web3 architecture, and AI development**
 - 👯 Open to collaborating on **blockchain, Full Stack, and open-source projects**
 - 💬 Ask me about **Solidity, JavaScript, React, Node.js, Backend Development, AI, or DSA**
@@ -55,20 +55,20 @@
 ## 🏆 Featured Achievements
 
 ### 🥇 **HackIgnite'25 Winner**
-**Mediva.AI** - An AI-powered healthcare assistant focused on medical accessibility and intelligent health guidance
+**[Mediva.AI](https://github.com/pranshu1899)** - An AI-powered healthcare assistant focused on medical accessibility and intelligent health guidance
 - Symptom analysis and disease prediction
 - AI-powered medical assistance
 - Doctor discovery and health recommendations
 - Tech Stack: JavaScript • Node.js • Python • Gemini API • REST APIs
 
 ### 🚀 **IIT Mandi National-Level Hackathon Finalist (INXITEOUT-XPECTO'26)**
-**CampX** - AI-powered autonomous marketing copilot using multi-agent workflows
+**[CampX](https://github.com/pranshu1899)** - AI-powered autonomous marketing copilot using multi-agent workflows
 - Transform campaign briefs into executable marketing campaigns
 - Content generation and audience segmentation
 - Campaign scheduling and analytics
 - Tech Stack: React.js • Node.js • MongoDB • Tailwind CSS • Python • LLM APIs
 
-### 📝 **ToDo Full Stack DApp**
+### 📝 **[ToDo Full Stack DApp](https://github.com/pranshu1899)**
 A decentralized task management application where users can create, update, complete, and delete tasks stored on-chain
 - Smart contract-based task storage
 - MetaMask wallet integration

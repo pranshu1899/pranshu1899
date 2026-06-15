@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋,+I'm+Pranshu+Samadhiya;Blockchain+Developer;Full+Stack+Engineer;AI+%26+ML+Enthusiast;Web3+Pioneer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋,+I'm+Pranshu+Samadhiya;Blockchain+Developer;Full+Stack+Engineer;AI+Developer;Web3+Pioneer;" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
@@ -39,7 +39,7 @@
 ## 💬 About Me
 
 <div align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;&nbsp;<b>I'm a passionate Computer Science and Design student with a strong foundation in blockchain development, full-stack engineering, and AI/ML.</b>&nbsp;&nbsp;<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;&nbsp;<b>I'm a passionate Computer Science and Design student with a strong foundation in blockchain development, full-stack engineering, and AI development.</b>&nbsp;&nbsp;<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 </div>
 
 <br/>
@@ -47,7 +47,7 @@
 - 🔭 Currently working on **blockchain solutions and Web3 projects**
 - 🌱 Learning **advanced smart contract security, Web3 architecture, and AI development**
 - 👯 Open to collaborating on **blockchain, Full Stack, and open-source projects**
-- 💬 Ask me about **Solidity, JavaScript, React, Node.js, Backend Development, AI/ML, or DSA**
+- 💬 Ask me about **Solidity, JavaScript, React, Node.js, Backend Development, AI, or DSA**
 - 📫 Reach me at: **samadhiya.pran@gmail.com**
 
 ---
@@ -98,11 +98,9 @@ Solved 50+ problems with focus on optimal time and space complexity. Strong gras
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### AI/ML & Data Science
+### AI & LLM
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557c.svg?style=for-the-badge&logo=python&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-8F7EE7?style=for-the-badge&logo=google&logoColor=white)
 
 ### Blockchain & Web3
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
@@ -151,7 +149,7 @@ Solved 50+ problems with focus on optimal time and space complexity. Strong gras
 - 🚀 Advanced Solidity Patterns and EVM optimization
 - 🧪 Hardhat & Chai Testing frameworks
 - 🏗️ Web3 Architecture and protocol development
-- 🤖 AI/ML development and data analysis
+- 🤖 Advanced AI development and LLM integration
 - 🎯 Advanced competitive programming techniques
 
 ### Goals
@@ -185,7 +183,7 @@ I'm always excited to:
 - 🚀 Contribute to open-source Web3 and blockchain projects
 - 💼 Collaborate on innovative blockchain solutions and full-stack applications
 - 🎓 Share knowledge about smart contracts, Solidity, and Web3 development
-- 🤖 Work on AI/ML projects and data analysis
+- 🤖 Work on AI-powered projects and LLM integration
 - 🤝 Network with fellow developers, builders, and blockchain enthusiasts
 - 🏆 Participate in hackathons and coding competitions
 

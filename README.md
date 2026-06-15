@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranshu Samadhiya</h1>
 
 <h3 align="center">
-  🔗 Blockchain Developer | 💻 Full Stack Developer | 🏆 Hackathon Winner
+  🔗 Blockchain Developer | 💻 Full Stack Developer | 🏆 Hackathon Winner | 🚀 Problem Solver
 </h3>
 
 <p align="center">
@@ -9,31 +9,59 @@
 </p>
 
 <p align="center">
-  <strong>Building decentralized solutions | Crafting scalable web applications | Solving complex problems</strong>
+  <strong>Building decentralized solutions | Crafting scalable web applications | Solving complex problems | Exploring AI & Web3</strong>
 </p>
 
 ---
 
 ## 🚀 Quick Facts
 
-- 🎓 **B.Tech in Computer Science & Engineering** @ MITS Gwalior
-- 🏆 **HackIgnite'25 Winner** - Innovative blockchain solution
-- 🥈 **IIT Mandi Hackathon Finalist** - Advanced full-stack project
+- 🎓 **B.Tech in Computer Science & Design** @ MITS Gwalior
+- 🥇 **HackIgnite'25 Winner** - Mediva.AI (AI-powered healthcare assistant)
+- 🚀 **IIT Mandi Hackathon Finalist (INXITEOUT-XPECTO'26)** - CampX (AI-powered autonomous marketing copilot)
 - 💻 **50+ LeetCode Problems** solved with optimal solutions
-- 🔐 **Passionate about Blockchain & Smart Contract Security**
-- 🌱 Continuously learning Web3, Solidity, and backend optimization
+- ⚡ **Technical Member**, IEEE IAS MITS Student Branch Chapter
+- 🔐 **Passionate about Blockchain, Smart Contract Security & Web3 Architecture**
+- 🌱 Continuously learning advanced Solidity patterns, Hardhat testing, and protocol development
 
 ---
 
 ## 💬 About Me
 
-I'm a passionate developer with a strong foundation in competitive programming and a growing expertise in blockchain technology. I love tackling challenging problems, building production-ready applications, and contributing to the Web3 ecosystem. My journey includes winning hackathons, mastering full-stack development, and diving deep into smart contract security.
+I'm a passionate Computer Science and Design student with a strong foundation in blockchain development, full-stack engineering, and competitive programming. I love tackling challenging problems, building production-ready applications, and exploring how AI and Web3 technologies can create impactful solutions.
 
 - 🔭 Currently working on **blockchain solutions and Web3 projects**
-- 🌱 Learning **advanced smart contract security patterns and Web3 architecture**
+- 🌱 Learning **advanced smart contract security, Web3 architecture, and competitive programming**
 - 👯 Open to collaborating on **blockchain, Full Stack, and open-source projects**
-- 💬 Ask me about **Solidity, JavaScript, React, Backend Development, or DSA**
-- 📫 Reach me at: **pranshu.samadhiya@gmail.com**
+- 💬 Ask me about **Solidity, JavaScript, React, Node.js, Express.js, Backend Development, or DSA**
+- 📫 Reach me at: **samadhiya.pran@gmail.com**
+
+---
+
+## 🏆 Featured Achievements
+
+### 🥇 **HackIgnite'25 Winner**
+**Mediva.AI** - An AI-powered healthcare assistant focused on medical accessibility and intelligent health guidance
+- Symptom analysis and disease prediction
+- AI-powered medical assistance
+- Doctor discovery and health recommendations
+- Tech Stack: JavaScript • Node.js • Express.js • Gemini API • REST APIs
+
+### 🚀 **IIT Mandi National-Level Hackathon Finalist (INXITEOUT-XPECTO'26)**
+**CampX** - AI-powered autonomous marketing copilot using multi-agent workflows
+- Transform campaign briefs into executable marketing campaigns
+- Content generation and audience segmentation
+- Campaign scheduling and analytics
+- Tech Stack: React.js • Node.js • Express.js • MongoDB • Tailwind CSS • LLM APIs
+
+### 📝 **ToDo Full Stack DApp**
+A decentralized task management application where users can create, update, complete, and delete tasks stored on-chain
+- Smart contract-based task storage
+- MetaMask wallet integration
+- Tech Stack: Solidity • Hardhat • Ethers.js • React.js • MetaMask • OpenZeppelin • Sepolia
+
+### 💡 **LeetCode Excellence**
+Solved 50+ problems with focus on optimal time and space complexity. Strong grasp of DSA fundamentals.
 
 ---
 
@@ -41,9 +69,8 @@ I'm a passionate developer with a strong foundation in competitive programming a
 
 ### Languages
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
 ### Frontend
@@ -59,28 +86,18 @@ I'm a passionate developer with a strong foundation in competitive programming a
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Blockchain & Web3
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF04D?style=for-the-badge&logo=hardhat&logoColor=black)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E529E?style=for-the-badge&logo=openzeppelin&logoColor=white)
+![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 
 ### Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 🎯 Featured Projects & Achievements
-
-### 🏆 **HackIgnite'25 Winner**
-Developed an innovative blockchain solution that won first place. [View Details](#)
-
-### 🥈 **IIT Mandi Hackathon Finalist**
-Built a full-stack application with cutting-edge technologies and advanced features. [View Details](#)
-
-### 💡 **LeetCode Excellence**
-Solved 50+ problems on LeetCode with focus on optimal time and space complexity. Strong grasp of DSA fundamentals.
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -108,6 +125,23 @@ Solved 50+ problems on LeetCode with focus on optimal time and space complexity.
 
 ---
 
+## 🎯 Current Learning & Goals
+
+### Currently Learning
+- 🔒 Smart Contract Security best practices
+- 🚀 Advanced Solidity Patterns and EVM optimization
+- 🧪 Hardhat Testing frameworks
+- 🏗️ Web3 Architecture and protocol development
+- 🎯 Advanced competitive programming techniques
+
+### Goals
+- 🏆 Become a skilled Blockchain Engineer
+- 🚀 Build production-grade decentralized applications
+- 🌍 Contribute to Web3 open-source projects
+- 🔐 Explore protocol development and smart contract security auditing
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -117,11 +151,8 @@ Solved 50+ problems on LeetCode with focus on optimal time and space complexity.
   <a href="https://github.com/pranshu1899" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:pranshu.samadhiya@gmail.com" target="_blank">
+  <a href="mailto:samadhiya.pran@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
 
@@ -130,10 +161,11 @@ Solved 50+ problems on LeetCode with focus on optimal time and space complexity.
 ## 📈 Let's Collaborate!
 
 I'm always excited to:
-- 🚀 Contribute to open-source Web3 projects
-- 💼 Collaborate on innovative blockchain solutions
-- 🎓 Share knowledge about full-stack development and smart contracts
-- 🤝 Network with fellow developers and builders
+- 🚀 Contribute to open-source Web3 and blockchain projects
+- 💼 Collaborate on innovative blockchain solutions and full-stack applications
+- 🎓 Share knowledge about smart contracts, Solidity, and Web3 development
+- 🤝 Network with fellow developers, builders, and blockchain enthusiasts
+- 🏆 Participate in hackathons and coding competitions
 
 Feel free to reach out if you have an interesting project or opportunity!
 

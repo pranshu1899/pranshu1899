@@ -7,8 +7,9 @@ Blockchain Developer • Full Stack Developer • Hackathon Winner
 </h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="600"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212744322-0d6ecb3e-0c7f-4f9f-8c32-4c0db9c8d0b3.gif" width="700"/>
 </p>
+
 
 <p align="center">
   🏆 HackIgnite'25 Winner • 🚀 IIT Mandi Hackathon Finalist • 💻 50+ LeetCode Problems

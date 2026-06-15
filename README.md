@@ -2,6 +2,8 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Pranshu%20Samadhiya&fontSize=45&fontAlignY=40&desc=Blockchain%20Developer%20|%20Full%20Stack%20Developer&descAlignY=60"/>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:1e293b,100:3b82f6&text=Pranshu%20Samadhiya&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=Blockchain%20Developer%20|%20Full%20Stack%20Developer%20|%20Hackathon%20Builder&descAlignY=62"/>
+
 ### Blockchain Developer | Full Stack Developer | Problem Solver
 
 - 🎓 B.Tech CSD @ MITS Gwalior

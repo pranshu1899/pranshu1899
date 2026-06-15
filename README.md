@@ -7,16 +7,14 @@ Blockchain Developer • Full Stack Developer • Hackathon Winner
 </h3>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2d7d8a15-3e60-4922-bdf5-dc62b7b4d1aa.gif" width="700">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="600"/>
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f172a,50:312e81,100:3b82f6&text=Pranshu%20Samadhiya&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=twinkling&desc=Blockchain%20Developer%20|%20Hackathon%20Winner%20|%20Full%20Stack%20Developer&descAlignY=60"/>
 
 <p align="center">
   🏆 HackIgnite'25 Winner • 🚀 IIT Mandi Hackathon Finalist • 💻 50+ LeetCode Problems
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranshu-Samadhiya&theme=tokyo-night)](...)
+
 
 ### Blockchain Developer | Full Stack Developer | Problem Solver
 

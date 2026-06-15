@@ -1,20 +1,30 @@
-<h1 align="center">Hi 👋, I'm Pranshu Samadhiya</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋,+I'm+Pranshu+Samadhiya;Blockchain+Developer;Full+Stack+Engineer;AI+%26+ML+Enthusiast;Web3+Pioneer;" alt="Typing SVG" />
+</h1>
 
 <h3 align="center">
   🔗 Blockchain Developer | 💻 Full Stack Developer | 🏆 Hackathon Enthusiast | 🚀 Problem Solver
 </h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJwN2N3YWl0d2N6cTF5YzA2YzM0MXdpcWJrYjM4dHJiN3I0cDg0NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="500"/>
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4500-914d-e7ae867b6e5f.gif" width="600" alt="coding-gif"/>
+</div>
 
 <p align="center">
-  <strong>Building decentralized solutions | Crafting scalable web applications | Solving complex problems | Exploring AI & Web3</strong>
+  <strong>🚀 Building decentralized solutions | 💡 Crafting scalable web applications | 🧠 Solving complex problems | 🌐 Exploring AI & Web3</strong>
 </p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Actively%20Learning-brightgreen?style=flat&logo=codecademy" alt="Status" />
+  <img src="https://img.shields.io/badge/Passion-Blockchain%20%26%20AI-blue?style=flat&logo=ethereum" alt="Passion" />
+  <img src="https://img.shields.io/badge/Focus-Web3%20Development-purple?style=flat&logo=web3dotjs" alt="Focus" />
+</div>
 
 ---
 
 ## 🚀 Quick Facts
+
+<img align="right" src="https://img.shields.io/badge/⚡-Technical%20Expertise-orange?style=flat-square" alt="Tech Badge" />
 
 - 🎓 **B.Tech in Computer Science & Design** @ MITS Gwalior
 - 🥇 **HackIgnite'25 Winner** - Mediva.AI (AI-powered healthcare assistant)
@@ -28,13 +38,17 @@
 
 ## 💬 About Me
 
-I'm a passionate Computer Science and Design student with a strong foundation in blockchain development, full-stack engineering, and competitive programming. I love tackling challenging problems, [...]
+<div align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;&nbsp;<b>I'm a passionate Computer Science and Design student with a strong foundation in blockchain development, full-stack engineering, and AI/ML.</b>&nbsp;&nbsp;<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+</div>
 
--  Currently working on **blockchain solutions and Web3 projects**
--  Learning **advanced smart contract security, Web3 architecture, and AI development**
--  Open to collaborating on **blockchain, Full Stack, and open-source projects**
--  Ask me about **Solidity, JavaScript, React, Node.js, Backend Development, AI/ML, or DSA**
--    Reach me at: **samadhiya.pran@gmail.com**
+<br/>
+
+- 🔭 Currently working on **blockchain solutions and Web3 projects**
+- 🌱 Learning **advanced smart contract security, Web3 architecture, and AI development**
+- 👯 Open to collaborating on **blockchain, Full Stack, and open-source projects**
+- 💬 Ask me about **Solidity, JavaScript, React, Node.js, Backend Development, AI/ML, or DSA**
+- 📫 Reach me at: **samadhiya.pran@gmail.com**
 
 ---
 
@@ -111,13 +125,10 @@ Solved 50+ problems with focus on optimal time and space complexity. Strong gras
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=pranshu1899&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=pranshu1899&theme=dark&hide_border=false" alt="GitHub Streak"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=pranshu1899&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=pranshu1899&theme=dark&hide_border=false" alt="GitHub Streak" width="48%"/>
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=pranshu1899&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
@@ -154,7 +165,7 @@ Solved 50+ problems with focus on optimal time and space complexity. Strong gras
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/pranshu-samadhiya-415052380/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -164,7 +175,7 @@ Solved 50+ problems with focus on optimal time and space complexity. Strong gras
   <a href="mailto:samadhiya.pran@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-</p>
+</div>
 
 ---
 
@@ -182,10 +193,10 @@ Feel free to reach out if you have an interesting project or opportunity!
 
 ---
 
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=pranshu1899&color=0077B5" alt="Profile Views"/>
-</p>
+</div>
 
-<p align="center">
-  <sub>Made with ❤️ by Pranshu Samadhiya</sub>
-</p>
+<div align="center">
+  <sub>✨ Made with ❤️ by Pranshu Samadhiya ✨</sub>
+</div>

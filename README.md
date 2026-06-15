@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pranshu Samadhiya</h1>
 
 <h3 align="center">
-  🔗 Blockchain Developer | 💻 Full Stack Developer | 🏆 Hackathon Winner | 🚀 Problem Solver
+  🔗 Blockchain Developer | 💻 Full Stack Developer | 🏆 Hackathon Enthusiast | 🚀 Problem Solver
 </h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4500-914d-e7ae867b6e5f.gif" width="600" alt="coding-gif"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJwN2N3YWl0d2N6cTF5YzA2YzM0MXdpcWJrYjM4dHJiN3I0cDg0NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="500"/>
 </p>
 
 <p align="center">
@@ -30,11 +30,11 @@
 
 I'm a passionate Computer Science and Design student with a strong foundation in blockchain development, full-stack engineering, and competitive programming. I love tackling challenging problems, building production-ready applications, and exploring how AI and Web3 technologies can create impactful solutions.
 
-- 🔭 Currently working on **blockchain solutions and Web3 projects**
-- 🌱 Learning **advanced smart contract security, Web3 architecture, and competitive programming**
-- 👯 Open to collaborating on **blockchain, Full Stack, and open-source projects**
-- 💬 Ask me about **Solidity, JavaScript, React, Node.js, Express.js, Backend Development, or DSA**
-- 📫 Reach me at: **samadhiya.pran@gmail.com**
+-  Currently working on **blockchain solutions and Web3 projects**
+-  Learning **advanced smart contract security, Web3 architecture, and competitive programming**
+-  Open to collaborating on **blockchain, Full Stack, and open-source projects**
+-  Ask me about **Solidity, JavaScript, React, Node.js, Express.js, Backend Development, or DSA**
+-    Reach me at: **samadhiya.pran@gmail.com**
 
 ---
 

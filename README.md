@@ -1,5 +1,7 @@
 # Hi, I'm Pranshu Samadhiya 👋
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Pranshu%20Samadhiya&fontSize=45&fontAlignY=40&desc=Blockchain%20Developer%20|%20Full%20Stack%20Developer&descAlignY=60"/>
+
 ### Blockchain Developer | Full Stack Developer | Problem Solver
 
 - 🎓 B.Tech CSD @ MITS Gwalior
